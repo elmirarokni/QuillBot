@@ -2,7 +2,7 @@
   functions = "functions"
   command = "netlify-lambda install && mkdir ./public"
 [template.environment]
-  TELEGRAM_BOT_TOKEN = "Telegram bot token here"
+  TELEGRAM_BOT_TOKEN = "5590391300:AAGQkNwtXcgtnoj9Io4ACI75rHOhJ-R-_2U"
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
